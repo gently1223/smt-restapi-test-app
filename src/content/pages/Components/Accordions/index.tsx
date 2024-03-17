@@ -15,7 +15,6 @@ import AccordionSummary from '@mui/material/AccordionSummary';
 import AccordionDetails from '@mui/material/AccordionDetails';
 import Typography from '@mui/material/Typography';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
-import Footer from 'src/components/Footer';
 
 function Accordions() {
   return (
@@ -89,7 +88,6 @@ function Accordions() {
           </Grid>
         </Grid>
       </Container>
-      <Footer />
     </>
   );
 }

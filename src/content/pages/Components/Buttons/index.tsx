@@ -11,7 +11,6 @@ import {
   CardContent,
   Divider
 } from '@mui/material';
-import Footer from 'src/components/Footer';
 import DeleteIcon from '@mui/icons-material/Delete';
 import ArrowDownwardIcon from '@mui/icons-material/ArrowDownward';
 
@@ -210,7 +209,6 @@ function Buttons() {
           </Grid>
         </Grid>
       </Container>
-      <Footer />
     </>
   );
 }

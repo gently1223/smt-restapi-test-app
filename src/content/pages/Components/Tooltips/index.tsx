@@ -12,7 +12,6 @@ import {
 import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
 import Tooltip from '@mui/material/Tooltip';
-import Footer from 'src/components/Footer';
 
 function Tooltips() {
   return (
@@ -111,7 +110,6 @@ function Tooltips() {
           </Grid>
         </Grid>
       </Container>
-      <Footer />
     </>
   );
 }
