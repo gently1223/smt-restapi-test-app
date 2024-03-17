@@ -14,6 +14,7 @@ function PageHeader() {
           id="outlined-search"
           label="Location"
           type="search"
+          
         />
         <TextField
           id="outlined-search"
