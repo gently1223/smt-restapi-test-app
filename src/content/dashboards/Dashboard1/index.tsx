@@ -5,7 +5,7 @@ import { Grid, Container } from '@mui/material';
 
 import RecentOrders from './RecentOrders';
 
-function Dashboard() {
+function Dashboard1() {
   return (
     <>
       <Helmet>
@@ -31,4 +31,4 @@ function Dashboard() {
   );
 }
 
-export default Dashboard;
+export default Dashboard1;
